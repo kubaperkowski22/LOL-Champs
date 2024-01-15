@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_champion.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\item_champion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_champion_skin.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\item_champion_skin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_passive_info.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\view_passive_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_spell_info.xml",
+        "source": "C:\\Users\\kubap\\Desktop\\LOL-Champs-master\\app\\src\\main\\res\\layout\\view_spell_info.xml"
+    }
+]

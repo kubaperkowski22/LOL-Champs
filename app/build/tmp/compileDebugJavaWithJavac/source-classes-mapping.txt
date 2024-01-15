@@ -1,0 +1,201 @@
+com/ready/lolchamps/databinding/ViewSpellInfoBinding.java
+ com.ready.lolchamps.databinding.ViewSpellInfoBinding
+com/ready/lolchamps/databinding/ItemChampionSkinBindingImpl.java
+ com.ready.lolchamps.databinding.ItemChampionSkinBindingImpl
+hilt_aggregated_deps/_com_ready_lolchamps_ui_main_MainViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_main_MainViewModel_HiltModules_KeyModule
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/ready/lolchamps/ui/detail/DetailViewModel_HiltModules.java
+ com.ready.lolchamps.ui.detail.DetailViewModel_HiltModules
+ com.ready.lolchamps.ui.detail.DetailViewModel_HiltModules$BindsModule
+ com.ready.lolchamps.ui.detail.DetailViewModel_HiltModules$KeyModule
+com/ready/lolchamps/DaggerLolChampsApplication_HiltComponents_SingletonC.java
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$1
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ActivityCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ActivityCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$Builder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$FragmentCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$FragmentCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ServiceCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$SwitchingProvider
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewModelCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewModelCImpl
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.ready.lolchamps.DaggerLolChampsApplication_HiltComponents_SingletonC$ViewWithFragmentCImpl
+hilt_aggregated_deps/_com_ready_lolchamps_ui_main_MainViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_main_MainViewModel_HiltModules_BindsModule
+com/ready/lolchamps/DataBindingTriggerClass.java
+ com.ready.lolchamps.DataBindingTriggerClass
+com/ready/lolchamps/di/DBModule_ProvidePassiveTypeConverterFactory.java
+ com.ready.lolchamps.di.DBModule_ProvidePassiveTypeConverterFactory
+com/ready/lolchamps/ui/main/MainActivity_GeneratedInjector.java
+ com.ready.lolchamps.ui.main.MainActivity_GeneratedInjector
+hilt_aggregated_deps/_com_ready_lolchamps_di_NetworkModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_di_NetworkModule
+com/ready/lolchamps/db/ChampionDao_Impl.java
+ com.ready.lolchamps.db.ChampionDao_Impl
+ com.ready.lolchamps.db.ChampionDao_Impl$1
+ com.ready.lolchamps.db.ChampionDao_Impl$2
+ com.ready.lolchamps.db.ChampionDao_Impl$3
+com/ready/lolchamps/ui/detail/DetailViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.ready.lolchamps.ui.detail.DetailViewModel_HiltModules_KeyModule_ProvideFactory
+ com.ready.lolchamps.ui.detail.DetailViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/ready/lolchamps/LolChampsApplication_GeneratedInjector.java
+ com.ready.lolchamps.LolChampsApplication_GeneratedInjector
+com/ready/lolchamps/db/AppDatabase_Impl.java
+ com.ready.lolchamps.db.AppDatabase_Impl
+ com.ready.lolchamps.db.AppDatabase_Impl$1
+dagger/hilt/internal/aggregatedroot/codegen/_com_ready_lolchamps_LolChampsApplication.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_ready_lolchamps_LolChampsApplication
+com/ready/lolchamps/db/SkinTypeConverter_Factory.java
+ com.ready.lolchamps.db.SkinTypeConverter_Factory
+hilt_aggregated_deps/_com_ready_lolchamps_ui_detail_DetailViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_detail_DetailViewModel_HiltModules_BindsModule
+hilt_aggregated_deps/_com_ready_lolchamps_LolChampsApplication_GeneratedInjector.java
+ hilt_aggregated_deps._com_ready_lolchamps_LolChampsApplication_GeneratedInjector
+com/ready/lolchamps/databinding/ViewPassiveInfoBindingImpl.java
+ com.ready.lolchamps.databinding.ViewPassiveInfoBindingImpl
+com/ready/lolchamps/BR.java
+ com.ready.lolchamps.BR
+com/ready/lolchamps/repository/MainRepositoryImpl_Factory.java
+ com.ready.lolchamps.repository.MainRepositoryImpl_Factory
+com/ready/lolchamps/db/StringListTypeConverter_Factory.java
+ com.ready.lolchamps.db.StringListTypeConverter_Factory
+com/ready/lolchamps/LolChampsApplication_HiltComponents.java
+ com.ready.lolchamps.LolChampsApplication_HiltComponents
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityRetainedC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityRetainedC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$FragmentC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$FragmentC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$FragmentCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ServiceC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ServiceC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ServiceCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$SingletonC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewModelC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewModelC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewModelCBuilderModule
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewWithFragmentC
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.ready.lolchamps.LolChampsApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/ready/lolchamps/ui/main/MainViewModel_HiltModules.java
+ com.ready.lolchamps.ui.main.MainViewModel_HiltModules
+ com.ready.lolchamps.ui.main.MainViewModel_HiltModules$BindsModule
+ com.ready.lolchamps.ui.main.MainViewModel_HiltModules$KeyModule
+hilt_aggregated_deps/_com_ready_lolchamps_ui_detail_DetailViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_detail_DetailViewModel_HiltModules_KeyModule
+com/ready/lolchamps/ui/main/Hilt_MainActivity.java
+ com.ready.lolchamps.ui.main.Hilt_MainActivity
+ com.ready.lolchamps.ui.main.Hilt_MainActivity$1
+com/ready/lolchamps/di/DBModule_ProvideMoshiFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideMoshiFactory
+ com.ready.lolchamps.di.DBModule_ProvideMoshiFactory$InstanceHolder
+com/ready/lolchamps/databinding/ItemChampionBindingImpl.java
+ com.ready.lolchamps.databinding.ItemChampionBindingImpl
+com/ready/lolchamps/ui/detail/DetailActivity_GeneratedInjector.java
+ com.ready.lolchamps.ui.detail.DetailActivity_GeneratedInjector
+com/ready/lolchamps/di/DBModule_ProvideChampionInfoDaoFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideChampionInfoDaoFactory
+com/ready/lolchamps/databinding/ActivityDetailBindingImpl.java
+ com.ready.lolchamps.databinding.ActivityDetailBindingImpl
+com/ready/lolchamps/di/NetworkModule_ProvideRetrofitFactory.java
+ com.ready.lolchamps.di.NetworkModule_ProvideRetrofitFactory
+com/ready/lolchamps/db/SpellTypeConverter_Factory.java
+ com.ready.lolchamps.db.SpellTypeConverter_Factory
+hilt_aggregated_deps/_com_ready_lolchamps_ui_detail_DetailActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_detail_DetailActivity_GeneratedInjector
+com/ready/lolchamps/di/DBModule_ProvideSpellTypeConverterFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideSpellTypeConverterFactory
+com/ready/lolchamps/Hilt_LolChampsApplication.java
+ com.ready.lolchamps.Hilt_LolChampsApplication
+ com.ready.lolchamps.Hilt_LolChampsApplication$1
+com/ready/lolchamps/ui/main/MainViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.ready.lolchamps.ui.main.MainViewModel_HiltModules_KeyModule_ProvideFactory
+ com.ready.lolchamps.ui.main.MainViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/ready/lolchamps/di/DBModule_ProvideImageTypeConverterFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideImageTypeConverterFactory
+com/ready/lolchamps/databinding/ActivityDetailBinding.java
+ com.ready.lolchamps.databinding.ActivityDetailBinding
+com/ready/lolchamps/db/ImageTypeConverter_Factory.java
+ com.ready.lolchamps.db.ImageTypeConverter_Factory
+com/ready/lolchamps/databinding/ActivityMainBindingImpl.java
+ com.ready.lolchamps.databinding.ActivityMainBindingImpl
+com/ready/lolchamps/repository/DetailRepositoryImpl_Factory.java
+ com.ready.lolchamps.repository.DetailRepositoryImpl_Factory
+com/ready/lolchamps/db/ChampionInfoDao_Impl.java
+ com.ready.lolchamps.db.ChampionInfoDao_Impl
+ com.ready.lolchamps.db.ChampionInfoDao_Impl$1
+ com.ready.lolchamps.db.ChampionInfoDao_Impl$2
+ com.ready.lolchamps.db.ChampionInfoDao_Impl$3
+hilt_aggregated_deps/_com_ready_lolchamps_ui_main_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_ready_lolchamps_ui_main_MainActivity_GeneratedInjector
+com/ready/lolchamps/DataBinderMapperImpl.java
+ com.ready.lolchamps.DataBinderMapperImpl
+ com.ready.lolchamps.DataBinderMapperImpl$InnerBrLookup
+ com.ready.lolchamps.DataBinderMapperImpl$InnerLayoutIdLookup
+dagger/hilt/internal/processedrootsentinel/codegen/_com_ready_lolchamps_LolChampsApplication.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_ready_lolchamps_LolChampsApplication
+com/ready/lolchamps/di/DBModule_ProvideAppDatabaseFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideAppDatabaseFactory
+com/ready/lolchamps/di/DBModule_ProvideSkinTypeConverterFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideSkinTypeConverterFactory
+com/ready/lolchamps/di/NetworkModule_ProvideRequestDebugInterceptorFactory.java
+ com.ready.lolchamps.di.NetworkModule_ProvideRequestDebugInterceptorFactory
+ com.ready.lolchamps.di.NetworkModule_ProvideRequestDebugInterceptorFactory$InstanceHolder
+com/ready/lolchamps/databinding/ViewSpellInfoBindingImpl.java
+ com.ready.lolchamps.databinding.ViewSpellInfoBindingImpl
+com/ready/lolchamps/LolChampsApplication_ComponentTreeDeps.java
+ com.ready.lolchamps.LolChampsApplication_ComponentTreeDeps
+hilt_aggregated_deps/_com_ready_lolchamps_di_DBModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_di_DBModule
+com/ready/lolchamps/di/DBModule_ProvideStringListTypeConverterFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideStringListTypeConverterFactory
+com/ready/lolchamps/databinding/ActivityMainBinding.java
+ com.ready.lolchamps.databinding.ActivityMainBinding
+com/ready/lolchamps/db/PassiveTypeConverter_Factory.java
+ com.ready.lolchamps.db.PassiveTypeConverter_Factory
+com/ready/lolchamps/di/DBModule_ProvideChampionDaoFactory.java
+ com.ready.lolchamps.di.DBModule_ProvideChampionDaoFactory
+com/ready/lolchamps/databinding/ItemChampionSkinBinding.java
+ com.ready.lolchamps.databinding.ItemChampionSkinBinding
+com/ready/lolchamps/BuildConfig.java
+ com.ready.lolchamps.BuildConfig
+com/ready/lolchamps/ui/detail/DetailViewModel_Factory.java
+ com.ready.lolchamps.ui.detail.DetailViewModel_Factory
+com/ready/lolchamps/di/NetworkModule_ProvideOkHttpClientFactory.java
+ com.ready.lolchamps.di.NetworkModule_ProvideOkHttpClientFactory
+hilt_aggregated_deps/_com_ready_lolchamps_di_RepositoryModule.java
+ hilt_aggregated_deps._com_ready_lolchamps_di_RepositoryModule
+com/ready/lolchamps/di/NetworkModule_ProvideChampionServiceFactory.java
+ com.ready.lolchamps.di.NetworkModule_ProvideChampionServiceFactory
+com/ready/lolchamps/databinding/ItemChampionBinding.java
+ com.ready.lolchamps.databinding.ItemChampionBinding
+com/ready/lolchamps/databinding/ViewPassiveInfoBinding.java
+ com.ready.lolchamps.databinding.ViewPassiveInfoBinding
+com/ready/lolchamps/di/NetworkModule_ProvideChampionInfoServiceFactory.java
+ com.ready.lolchamps.di.NetworkModule_ProvideChampionInfoServiceFactory
+com/ready/lolchamps/ui/main/MainViewModel_Factory.java
+ com.ready.lolchamps.ui.main.MainViewModel_Factory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/ready/lolchamps/ui/detail/Hilt_DetailActivity.java
+ com.ready.lolchamps.ui.detail.Hilt_DetailActivity
+ com.ready.lolchamps.ui.detail.Hilt_DetailActivity$1

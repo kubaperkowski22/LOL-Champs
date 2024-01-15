@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lolchamps.iml" filepath="$PROJECT_DIR$/.idea/modules/Lolchamps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lolchamps.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
